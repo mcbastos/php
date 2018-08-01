@@ -1,4 +1,4 @@
 <?php
 	echo "Hello World!!!";
-        echo "Editado por MCBASTOS";
+        echo "Olá mundo!!!";
 ?>
